@@ -1,0 +1,64 @@
+.main {
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: #F5F7FA;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.main-content {
+    background-color: #fff;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+    padding: 105px 90px;
+}
+
+
+.about-name {
+    front-style: normal;
+    front-weight: bold;
+    front: size 45px;
+    line-height: 55px;
+}
+
+.about-description {
+    front-style: normal;
+    front-weight: normal;
+    front: size 14px;
+    line-height: 24px;
+    color: Black;
+    ;
+}
+
+.user {
+    color: Black;
+}
+
+.work {
+    padding: 100px 40px 50px 20px;
+}
+
+.sidebar {
+    background-color: LavenderBlush;
+    padding-top: 40px;
+    width: 370px;
+
+}
+
+.photo {
+    width: 370px;
+    margin-bottom: 50px;
+}
+
+.sidebar-title {
+    color: Black;
+    front-style: normal;
+    front-weight: bold;
+    front-size: 22px;
+    line-height: 27px;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.soft-skills {
+    margin-left: 40px;
+}
